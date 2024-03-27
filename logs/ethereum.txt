@@ -206,3 +206,4 @@
 {"jsonrpc":"2.0","id":1,"result":"0x62c5f3be0"}
 {"jsonrpc":"2.0","id":1,"result":"0x54f11ec87"}
 {"error":"{\"Error_GUID\":\"13749287607561545220\",\"Error\":\"Failed all retries {GUID:13749287607561545220,error:rpc error: code = Unavailable desc = unexpected HTTP status code received from server: 502 (Bad Gateway); transport: received unexpected content-type \\\"text/html\\\",chain_id:ETH1}\"}"}
+{"error":"{\"Error_GUID\":\"15299005344030122574\",\"Error\":\"Failed all relay retries due to timeout consider adding 'lava-relay-timeout' header to extend the allowed timeout duration {GUID:15299005344030122574}\"}"}
